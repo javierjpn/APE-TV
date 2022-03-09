@@ -1,7 +1,5 @@
-const select = document.getElementById('breeds');
 const card1 = document.querySelector('.card1');
 const card2 = document.querySelector('.card2'); 
-const form = document.querySelector('form');
 
 // ------------------------------------------
 //  FETCH FUNCTIONS
